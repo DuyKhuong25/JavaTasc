@@ -53,7 +53,7 @@ Arrays.sort(array): Sắp xếp mảng theo thứ tự tăng dần.
 Mảng hai chiều: ```dataType[][] arrayName = new dataType[rows][columns];```
 Khởi tạo trực tiếp: ```int[][] matrix = {{1, 2}, {3, 4}, {5, 6}};```
 
-* Note
+## Note
 Mảng trong Java có kiểu là một đối tượng, vì thế khi truyền mảng vào phương thức, sẽ là tham chiếu (reference) chứ không phải bản sao.
 
 Các phần tử trong mảng sẽ được khởi tạo giá trị mặc định (0 cho kiểu số, null cho đối tượng).
